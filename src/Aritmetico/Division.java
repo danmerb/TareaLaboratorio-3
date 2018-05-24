@@ -14,7 +14,7 @@ public class Division implements Aritmetico {
     @Override
     public float operar(int a, int n) {
 
-        int div = a / n;
+        float div = a / n;
 
         return div;
     }
